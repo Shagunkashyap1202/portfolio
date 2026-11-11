@@ -48,8 +48,8 @@ A simple, responsive, single-page portfolio designed to introduce myself, showca
 ## Connect With Me
 
 - **GitHub:** [Shagun Kashyap](https://github.com/Shagunkashyap1202)
-- **LinkedIn:** Add your LinkedIn profile URL here.
+- **LinkedIn:** [Shagun Kashyap](https://www.linkedin.com/in/shagun-kashyap-77b8b7328?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
-Made with HTML, CSS and JavaScript by Shagun Kashyap.
+Made with HTML and CSS  by Shagun Kashyap.
